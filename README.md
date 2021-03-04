@@ -1,34 +1,20 @@
-<style>
-  header {
-    text-align: center;
-  }
+<p align="center">
+  <img src=".github/cover.png" width="90%" >
+</p>
 
-  header ul {
-    list-style: none;
-  }
+<h1 align="center">Move.it</h1>
 
-  header ul li {
-    display: inline;
-  }
-</style>
+<p align="center">Projeto desenvolvido com Nextjs durante a Next Level Week da Rocketseat - Trilha React</p>
+<p align="center">Acesse em: <a target="_blank" href="https://moveit-fawn-kappa.vercel.app/">https://moveit-fawn-kappa.vercel.app/</a></p>
 
-<header>
-
-<h1>Move.it</h1>
-
-<p>Projeto desenvolvido com Nextjs durante a Next Level Week da Rocketseat - Trilha React</p>
-<p>Acesse em: <a target="_blank" href="https://moveit-fawn-kappa.vercel.app/">https://moveit-fawn-kappa.vercel.app/</a></p>
-
-<nav>
-  <ul>
-    <li><a href="#intro">Introdução</a></li> |
-    <li><a href="#tech">Tecnologias</a></li> |
-    <li><a href="#tech">Como usar</a></li> |
-    <li><a href="#licence">Licença</a></li>
+<nav align="center">
+  <ul style="list-style: none">
+    <li style="display: inline"><a href="#intro">Introdução</a></li> |
+    <li style="display: inline"><a href="#tech">Tecnologias</a></li> |
+    <li style="display: inline"><a href="#tech">Como usar</a></li> |
+    <li style="display: inline"><a href="#licence">Licença</a></li>
   </ul>
 </nav>
-
-</header>
 
 <h2>Introdução</h2>
 
@@ -47,14 +33,12 @@ A ideia do Move.it é te ajudar a praticar exercícios para o corpo e para os ol
 Clone o projeto
 
 ```shell
-
 git clone https://github.com/lorenasg1/nlw-moveit.git
 ```
 
 Instale as dependências 
 
 ```shell
-
 npm install
 
 ou
@@ -65,6 +49,10 @@ yarn
 Execute o projeto na sua máquina
 
 ```shell
+npm start
+
+ou
+
 yarn start
 ```
 
