@@ -1,20 +1,18 @@
-<p align="center">
+<header align="center">
   <img src=".github/cover.png" width="90%" >
-</p>
 
-<h1 align="center">Move.it</h1>
+<h1>Move.it</h1>
 
-<p align="center">Projeto desenvolvido com Nextjs durante a Next Level Week da Rocketseat - Trilha React</p>
-<p align="center">Acesse em: <a target="_blank" href="https://moveit-fawn-kappa.vercel.app/">https://moveit-fawn-kappa.vercel.app/</a></p>
+<p>Projeto desenvolvido com Nextjs durante a Next Level Week da Rocketseat - Trilha React</p>
+<p>Acesse em: <a target="_blank" href="https://moveit-fawn-kappa.vercel.app/">https://moveit-fawn-kappa.vercel.app/</a></p>
 
-<nav align="center">
-  <ul style="list-style: none">
+  <span>
     <li style="display: inline"><a href="#intro">Introdução</a></li> |
     <li style="display: inline"><a href="#tech">Tecnologias</a></li> |
     <li style="display: inline"><a href="#tech">Como usar</a></li> |
     <li style="display: inline"><a href="#licence">Licença</a></li>
-  </ul>
-</nav>
+  </span>
+</header>
 
 <h2>Introdução</h2>
 
