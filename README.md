@@ -1,4 +1,4 @@
-<header align="center">
+<fiv align="center">
   <img src=".github/cover.png" width="90%" >
 
 <h1>Move.it</h1>
@@ -12,7 +12,7 @@
     <a href="#tech">Como usar</a> |
     <a href="#licence">Licença</a>
   </span>
-</header>
+</fiv>
 
 <h2>Introdução</h2>
 
