@@ -7,10 +7,10 @@
 <p>Acesse em: <a target="_blank" href="https://moveit-fawn-kappa.vercel.app/">https://moveit-fawn-kappa.vercel.app/</a></p>
 
   <span>
-    <li style="display: inline"><a href="#intro">Introdução</a></li> |
-    <li style="display: inline"><a href="#tech">Tecnologias</a></li> |
-    <li style="display: inline"><a href="#tech">Como usar</a></li> |
-    <li style="display: inline"><a href="#licence">Licença</a></li>
+    <a href="#intro">Introdução</a> |
+    <a href="#tech">Tecnologias</a> |
+    <a href="#tech">Como usar</a> |
+    <a href="#licence">Licença</a>
   </span>
 </header>
 
